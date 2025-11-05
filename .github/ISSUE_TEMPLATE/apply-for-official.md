@@ -1,6 +1,6 @@
 ---
 name: apply for official
-about: Describe this issue template's purpose here.
+about: Apply for AviumUI official
 title: New maintainer for [device]
 labels: ''
 assignees: uwu-gl
@@ -10,6 +10,11 @@ assignees: uwu-gl
 ## Name and Codename of the device you want to apply for 
 ```
 Your device name (Your device codename)
+```
+
+### What AviumUI version you would maintain?
+```
+16
 ```
 
 ## Device Tree sources
