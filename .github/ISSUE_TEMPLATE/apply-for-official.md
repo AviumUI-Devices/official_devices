@@ -3,7 +3,7 @@ name: apply for official
 about: Apply for AviumUI official
 title: New maintainer for [device]
 labels: ''
-assignees: uwu-gl
+assignees: binbin323
 
 ---
 
@@ -14,7 +14,7 @@ Your device name (Your device codename)
 
 ### What AviumUI version you would maintain?
 ```
-16
+16.2.0
 ```
 
 ## Device Tree sources
