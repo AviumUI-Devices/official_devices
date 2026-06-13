@@ -14,7 +14,7 @@ Your device name (Your device codename)
 
 ### What AviumUI version you would maintain?
 ```
-16.2.0
+16.2.1
 ```
 
 ## Device Tree sources
